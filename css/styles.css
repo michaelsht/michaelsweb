@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.course {
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.programmer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Brush Script MT', serif;
+    width: 50%;
+    margin: 50px auto 0 auto;
+    font-size: 85px;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+hr {
+    width: 10%;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    margin: 100px auto;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 150px;
+}
+
+.middle-container {
+    background-color: #f1f2f6;
+    position: relative;
+}
+
+.bottom-container {
+    background-color: #e4f9f5;
+    padding-top: 15px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 100px
+}
+
+.foto {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-left: 400px;
+    padding-left: 90px;
+}
+
+.fotocomputer {
+    height: 200px;
+    width: 200px;
+}
+
+.fotocourse {
+    height: 200px;
+    width: 200px;
+}
+
+h2 {
+    font-family: 'Brush Script MT', serif;
+    cursor: pointer;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    color: #11999E;
+}
+
+.footer-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    color: #0fb9b1;
+    padding: 70px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #20bf6b;
+    text-decoration: none;
+}
+
+.nama {
+    padding-top: 80px;
+    padding-right: 90px;
+    margin-right: 300px;
+}
+
+.myEmail {
+    background: #0fb9b1;
+    background-image: -webkit-linear-gradient(top, #0fb9b1, #0fb9b1);
+    background-image: -moz-linear-gradient(top, #0fb9b1, #0fb9b1);
+    background-image: -ms-linear-gradient(top, #0fb9b1, #0fb9b1);
+    background-image: -o-linear-gradient(top, #0fb9b1, #0fb9b1);
+    background-image: linear-gradient(to bottom, #0fb9b1, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 0px 4px 5px #ced6e0;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.myEmail:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
